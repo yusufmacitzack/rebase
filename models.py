@@ -1,1 +1,1 @@
-print("13.19 models.py")
+print('MODELS SON DENEME')
